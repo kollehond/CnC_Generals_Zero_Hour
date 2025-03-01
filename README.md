@@ -9,10 +9,14 @@ This repository includes source code for Command & Conquer Generals, and its exp
 If you wish to rebuild the source code and tools successfully you will need to find or write new replacements (or remove the code using them entirely) for the following libraries;
 
 - DirectX SDK (Version 9.0 or higher) (expected path `\Code\Libraries\DirectX\`)
+  https://www.microsoft.com/en-us/download/details.aspx?id=6812
 - STLport (4.5.3) - (expected path `\Code\Libraries\STLport-4.5.3`)
 - 3DSMax 4 SDK - (expected path `\Code\Libraries\Max4SDK\`)
+  https://archive.org/details/dvdrom-twilight-057
 - NVASM - (expected path `\Code\Tools\NVASM\`)
+  https://web.archive.org/web/20061006093538/http://developer.nvidia.com/object/nvasm.html
 - BYTEmark - (expected path `\Code\Libraries\Source\Benchmark`)
+  https://archive.org/details/BYTEMARK_ZIP
 - RAD Miles Sound System SDK - (expected path `\Code\Libraries\Source\WWVegas\Miles6\`)
 - RAD Bink SDK - (expected path `\Code\GameEngineDevice\Include\VideoDevice\Bink`)
 - SafeDisk API - (expected path `\Code\GameEngine\Include\Common\SafeDisk` and `\Code\Tools\Launcher\SafeDisk\`)
